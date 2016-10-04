@@ -96,6 +96,47 @@
             <div class="clear-both"></div>
         </div>
     </div>
+<div class="span12">
+<h1><span class="txtgr">『お手頃価格』</span>でスタート出来ます</h3>
+   <div class="row">
+		<div class="col-md-4">
+		   	<div class="box">
+			   <div class="hdr1"><h1>お試し</h1></div>
+			   <div class="subhdr">30日間無料</div>
+			   <div><p class="align-center"><span class="txtbold">スタンダードコースと<br/>同じ条件で<br/></span>ご利用いただけます。</p></div>
+		   	</div>
+		</div>
+		<div class="col-md-4">
+		   	<div class="box">
+			   <div class="hdr3"><h1>ライトコース</h1></div>
+			   <div class="subhdr ptb3"><p class="fs22">月額<span class="txtbig tb">780</span>円 /1ユーザー<br />
+			   	(年額 9,170円/1ユーザー)</p></div>
+			   <div class="pbox bb"><p>AAPI • JavaScript •<br/>プラグインカスタマイズ<img class="fr imgpad" src="http://freemight.com/demo/gycgi/wp-content/uploads/2016/10/img_dash.png" alt="dash"/></p></div>
+			   <div class="pbox bb"><p>アプリ数<span><button type="button" class="bl_button">200個</button></span></p></div>
+			   <div class="pbox bb"><p>スペース数<span><button type="button" class="bl_button">100個</button></span></p></div>
+			   <div class="pbox"><p>ゲストスペース数<span><button type="button" class="bl_button">100個</button></span></p></div>
+		   	</div>
+		</div>
+		<div class="col-md-4">
+			<div class="box">
+			   <div class="hdr2"><h1>スタンダードコース</h1></div>
+			   <div class="subhdr ptb3"><p class="fs22">月額<span class="txtbig tb">1,500</span>円 /1ユーザー<br />
+			   (年額 17,640円/1ユーザー)</p></div>
+                           <div class="pbox bb"><p>API • JavaScript •<br/>プラグインカスタマイズ<a href="#" class="tooltip-top" data-tooltip="サンプルテキスト"><img class="fr imgpad " src="http://freemight.com/demo/gycgi/wp-content/uploads/2016/10/img_check.png" alt="check"/></a></p></div>
+			   <div class="pbox bb"><p>アプリ数<span><button type="button" class="bl_button">1000個</button></span></p></div>
+			   <div class="pbox bb"><p>スペース数<span><button type="button" class="bl_button">500個</button></span></p></div>
+			   <div class="pbox"><p>ゲストスペース数<span><button type="button" class="bl_button">500個</button></span></p></div>
+		   </div>
+		</div>
+    </div>
+    <div class="row">
+    	<div class="offset9 pdesc">
+    		<p>※すべて税抜き価格。最低5ユーザーから購入できます。<br/>
+	   	※ペソ払いもできます。</p>
+    	</div>
+    </div>
+
+</div>
 
 [contact-form-7 id="1256" title="Trial Form"]
 
