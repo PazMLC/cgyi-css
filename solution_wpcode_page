@@ -1,0 +1,109 @@
+<div id="our-service" class="cmn-typo service-container">
+    
+
+
+
+
+    
+    <div id="cloudsolution"></div>
+    <div id="kintone" class="item-block2">
+        <h1>クラウドソリューション(Kintone)事業</h1>
+    </div>
+    <div class="kintone">
+        <div class="about-kintone">
+            <h2><strong>kintone (キントーン) とは</strong></h2> さまざまな業務システムをスピーディーに作成できるクラウドサービスです。エクセルの読み込みや、ドラッグ＆ドロップだけで誰でも簡単にアプリ作成ができ、データのグラフ化も美しく自由に作成できます。APIを使って他のシステムと連携したり、JavaScriptやプラグインを使ってkintoneには標準搭載されていない高度なカスタマイズを実現することも可能です。
+
+        </div>
+        <div class="img-kintone"><img class="alignnone size-medium wp-image-926" src="http://gycgi.com/wp-content/uploads/2014/09/kintone_logo.png" alt="kintone_logo" width="237" height="169" />
+        </div>
+        <div style="clear: both;"></div>
+        <div class="kintone-merit">
+            <h2><strong>kintoneの特徴</strong></h2> チーム業務で大切なデータベース（情報の管理・共有）・プロセス管理(適切なプロセスでタスクの処理）・コミュニケーション(迅速で密な報告・相談)の3要素を兼ね備えたkintoneは、案件管理や・営業支援ツールとして、Excelやファイルサーバーに代わり業務改善をサポートします。顧客管理や、経費申請、日報などグループで統一されたフォーマットでの報告・申請が可能になります。また個々のデータに対してコメントを書き込むことができるのでデータとそのデータについてのコミュニケーションを一つのレコードに集約することができます。
+
+        </div>
+        <div class="kintone-merit">
+            <h2><strong>業務アプリを簡単作成</strong></h2> ワンクリックでExcelをアプリ化・アプリストアからアプリ選択・ドラッグ&amp;ドロップではじめから作成の3つの方法で簡単にアプリを設計できます。アプリストアでは実際に課題解決に活用いただけるサンプルを複数ご紹介しています。ダウンロードしてすぐに利用可能です。
+
+        </div>
+        <div class="app_demo">
+
+            ーkintoneアプリ活用例ー
+            <div class="kokyaku-keihi">
+                <div class="kintone_contents">
+                    <h2>①顧客管理</h2>
+                    <div class="kintone_contents_bk">
+
+                        <img class="alignnone wp-image-937 size-full" src="http://gycgi.com/wp-content/uploads/2014/09/kokyaku_demo.png" alt="" width="901" height="374" />
+                        <p class="app-text">複数人が同時に編集できるのでいつも最新の顧客リストを確認できます。</p>
+
+                    </div>
+                </div>
+                <div class="kintone_contents">
+                    <h2>②経費申請</h2>
+                    <div class="kintone_contents_bk">
+
+                        <img class="alignnone wp-image-936 size-full" src="http://gycgi.com/wp-content/uploads/2014/09/kotsuhi_demo.png" alt="" width="902" height="377" />
+                        <p class="app-text">申請者全員からの用紙の取り纏めの手間が省けます。</p>
+
+                    </div>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="nippo-shodan">
+                <div class="kintone_contents">
+                    <h2>③日報</h2>
+                    <div class="kintone_contents_bk">
+
+                        <img class="alignnone wp-image-935 size-full" src="http://freemight.com/demo/gycgi/wp-content/uploads/2014/09/nippo_demo.png" alt="" width="901" height="376" />
+                        <p class="app-text">商談報告との紐づけや、「承諾・差戻」などプロセス管理ができます。</p>
+
+                    </div>
+                </div>
+                <div class="kintone_contents">
+                    <h2>④商談報告</h2>
+                    <div class="kintone_contents_bk">
+
+                        <img class="alignnone wp-image-934 size-full" src="http://gycgi.com/wp-content/uploads/2014/09/shodan_demo.png" alt="" width="900" height="376" />
+                        <p class="app-text">顧客マスタと紐づけて商談登録可能です。</p>
+
+                    </div>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="comment-span">ーコメント機能でデータに紐付いた効率的なコミュニケーションを実現ー</div>
+            <div class="comment">
+
+                <img class="alignnone size-full wp-image-933" src="http://gycgi.com/wp-content/uploads/2014/09/comment.jpg" alt="comment" width="661" height="436" />
+                <div class="comment-text">
+                    <p class="app-text"><strong>コメント機能</strong>
+                    </p>
+                    <p class="app-text">個々のデータに対して、コメントを書き込む事ができます。</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="kintone-sp">
+            <h2><strong>スマートフォン活用</strong></h2>
+            <div class="kintone-sp_left">
+                <div class="kintone-sp-text">
+                    <p class="kintone-sp-p">スマホ用ビューも基本機能でご用意</p>
+                    <p class="app-text">kintone で作成したアプリはスマホの画面に自動で最適化します。スマホ対応に、別途手間や費用をかける必要はありません。</p>
+
+                </div>
+            </div>
+            <div class="kintone-sp_right"><img class="alignnone size-full wp-image-962" src="http://gycgi.com/wp-content/uploads/2014/09/kintone_smapho_img.png" alt="kintone_smapho_img" width="500" height="490" />
+            </div>
+            <div class="clear-both"></div>
+        </div>
+    </div>
+
+[contact-form-7 id="1256" title="Trial Form"]
+
+    <div class="center-content">
+        <p class="f34 fbold">まずはお気軽にお声がけください</p>
+        <a href="../contact" class="wpcf7-form-control wpcf7-submit button button-rounded-corner button-ygold button-bold f15" >
+            お問い合わせはコチラ
+        </a>
+    </div>
+    
+</div>
